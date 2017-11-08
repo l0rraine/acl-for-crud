@@ -1,0 +1,21 @@
+{
+    "name": "qla/permissionmanager",
+    "description": "package for user & permission crud things",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "l0rraine",
+            "email": "idn.lee@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "qla/depcrud": "^0.1.0",
+        "kodeine/laravel-acl": "~1.0@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Qla\\PermissionManager\\": "src"
+        }
+    }
+}
