@@ -4,13 +4,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "l0rraine",
+            "name": "sdf",
             "email": "idn.lee@gmail.com"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "qla/depcrud": "^0.1.0",
         "kodeine/laravel-acl": "~1.0@dev"
     },
     "autoload": {
